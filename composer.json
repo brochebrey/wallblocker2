@@ -1,0 +1,19 @@
+{
+    "name": "piseth/wallblocker",
+    "description": "This package is use for banned website before it not ready to show as public.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kuy brochebrey",
+            "email": "piseth121235@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Piseth\\WallBlocker\\": "src/"
+        }
+    }
+}
